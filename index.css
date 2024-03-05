@@ -1,0 +1,22 @@
+body{
+    
+}
+
+.container{
+    background-color: red;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: aqua;
+    width: 100px;
+    padding: 50px;
+    margin: 40px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    text-align: center;
+}
